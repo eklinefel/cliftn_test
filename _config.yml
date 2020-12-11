@@ -21,6 +21,7 @@ url: "https://eklinefel.github.io"  # the base hostname & protocol for your site
 baseurl: "/cliftn_test"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+page.title: "CLIFTN: Light Electric BMX and Road Bikes"
 
 # Build settings
 markdown: kramdown
