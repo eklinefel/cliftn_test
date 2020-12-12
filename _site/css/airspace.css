@@ -97,26 +97,34 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  
+
   /*background-size: cover;*/
-  background-size: 100% auto;
+  
   /*background-size: contain;
   background-repeat: no-repeat;*/
 
   /*background-attachment: fixed;*/
   /*background-position: 10% 0%;*/
   /*padding: 200px 0 280px 0;*/
+
+  /* Previous */
+  background: url("../img/slider-bg.jpg") no-repeat;
+  background-size: 100% auto;
   position: relative;
+  width: 100%;
+  height: 0;
+  padding-top: 10%;
+  padding-bottom: 44%;
+
+
 
   /*width: auto;*/
   /*max-width: 100%;
   min-width: 100%;
   height: auto;*/
   /*min-height: 100%;*/
-  width: 100%;
-  height: 0;
-  padding-top: 10%;
-  padding-bottom: 44%;
+  
 
 }
 #slider:before {
@@ -141,6 +149,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 60px;
   letter-spacing: 10px;
   padding-bottom: 45px;
+  /*padding-bottom: 40%;*/
 }
 #slider .block p {
   font-size: 23px;
