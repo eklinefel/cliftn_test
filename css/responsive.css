@@ -158,7 +158,7 @@ px      68    160    252    344    436    528    620    712    */
 ---------------------------------------------
 cols    1     2      3
 px      68    160    252    */
-@media only screen and (min-width: 400px) and (max-width: 767px) {
+@media only screen and (min-width: 500px) and (max-width: 767px) {
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
@@ -409,7 +409,7 @@ px      68    160    252    344    436    */
 -----------------------------------------------    */
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
@@ -443,7 +443,7 @@ px      68    160    252    344    436    */
   }
   #slider .block p {
     font-size: 10px;
-    line-height: 16px;
+    line-height: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     letter-spacing: 3px;
