@@ -40,11 +40,4 @@ The Billy was the winner of our [2020 list](https://cliftn.blogspot.com/p/electr
 
 ## Summary ##
 
-| Bike | Voltage (V) | Capacity (Ah) | Power (W) | Top Speed (mph) | Range (miles) | Retail |
-| --- | --- | --- | --- | --- | --- | --- | 
-| c | a | a | A | c | a | a |
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+Summary table here...

@@ -447,7 +447,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
+  /*padding-left: 90px;*/
   text-align: center;
 }
 #global-header .block h1 {
@@ -464,6 +464,20 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 1px;
   word-spacing: 3px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*--
 	portfolio-work Start
 --*/
