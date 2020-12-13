@@ -2,7 +2,7 @@
 layout: post
 title: Top 4 Electric BMX Bikes for 2021 [Updated List]
 subtitle: test1
-date: 2020-12-10 21:11:27
+date: 2020-12-13 12:11:27
 author: Eric Klinefelter
 ---
 
