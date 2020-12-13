@@ -212,13 +212,10 @@ px      68    160    252    */
   /*width: auto;*/
   max-width: 100%;
   min-width: 100%;
-  max-height: 160px;
+  max-height: 180px;
   /*height: auto;*/
 }
 
-#global-header .block {
-  padding-left: 0px;
-}
 
 #global-header .block h1 {
   font-size: 24px;
@@ -497,12 +494,8 @@ px      68    160    252    344    436    */
     /*width: auto;*/
     max-width: 100%;
     min-width: 100%;
-    max-height: 70px;
+    max-height: 100px;
     /*height: auto;*/
-  }
-
-  #global-header .block {
-    padding-left: 0px;
   }
 
   #global-header .block h1 {
